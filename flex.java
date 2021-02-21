@@ -9,6 +9,8 @@ System.out.println("pedd pe baitha kaal kauwaa uski kaali pooch aurjo na boole s
 System.out.println("Dayanada ki amma bole bhaag bhosada bhagg jaaa!!!");
 System.out.println("At last, maa chudao!!@@!!");
 System.out.println("Duniya Madarchod Hai");
+System.out.println("Madhur lunnd hai!!!!");
 }
 }
 
+  
