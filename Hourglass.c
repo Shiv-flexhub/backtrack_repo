@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    int i,j,k,l,a,num,ar[6][6],S,H[16],m=0,g;
+    int i,j,k,l,a,num,ar[6][6],S,H[16],c=0,g;
     for(i=0;i<6;i++)
     {
         for(j=0;j<6;j++)
@@ -17,8 +17,8 @@ int main()
 
          S=ar[k][l]+ar[k][l+1]+ar[k][l+2]+ar[k+1][l+1]+ar[k+2][l]+ar[k+2][l+1]+
            ar[k+2][l+2];
-         H[m]=S;
-         m++;
+         H[c]=S;
+         c++;
          
         }
         
